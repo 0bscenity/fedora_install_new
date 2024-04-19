@@ -18,6 +18,8 @@ sudo snap install easy-disk-cleaner -y
 sudo flatpak install flathub com.github.jkotra.eovpn -y
 sudo snap install riseup-vpn --classic -y
 sudo snap install snap-store -y
+
 neofetch
+
 sleep 2 #
 sudo reboot
